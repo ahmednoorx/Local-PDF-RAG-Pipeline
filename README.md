@@ -1,4 +1,4 @@
-# Local PDF RAG(Retrieval-Augmented Generation) Pipeline
+# Local PDF RAG(Retrieval-Augmented Generation) Pipeline From Scratch
 
 An implementation of a simple Retrieval-Augmented Generation (RAG) model that demonstrates how retrieval and generation can be combined for effective information extraction. This project is ideal for anyone interested in learning or applying RAG in natural language processing (NLP) applications.
 
