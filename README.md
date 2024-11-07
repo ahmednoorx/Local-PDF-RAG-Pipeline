@@ -2,7 +2,7 @@
 
 An implementation of a simple Retrieval-Augmented Generation (RAG) model that demonstrates how retrieval and generation can be combined for effective information extraction. This project is ideal for anyone interested in learning or applying RAG in natural language processing (NLP) applications.
 
-<a target="_blank" href="https://colab.research.google.com/github/https://colab.research.google.com/github/ahmednoorx/Local-PDF-RAG-Pipeline/blob/main/PDF_RAG_from_Scratch.ipynb">
+<a target="_blank" href="https://colab.research.google.com/github/ahmednoorx/Local-PDF-RAG-Pipeline/blob/main/PDF_RAG_from_Scratch.ipynb">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a>
 
